@@ -1,0 +1,7 @@
+{
+  "name": "Digital nomad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
